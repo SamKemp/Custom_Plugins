@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Custom Plugins:jar">
+    <output-path>$PROJECT_DIR$/Build</output-path>
+    <root id="archive" name="Custom Plugins.jar">
+      <element id="module-output" name="Custom Plugins" />
+      <element id="extracted-dir" path="J:/Minecraft Servers/Buildtools/spigot-api-1.11.2-R0.1-20170420.114804-101.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="J:/Minecraft Servers/Buildtools/spigot-1.11.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

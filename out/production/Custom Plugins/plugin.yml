@@ -1,0 +1,9 @@
+name: CustomPlugins
+version: 1.0
+author: untamemadman
+main: com.untamemadman.plugins.customplugins.Main
+commands:
+  plugins:
+    description: Gives you a list of plugins installed on the server
+    usage: /plugins
+    alias: pl
